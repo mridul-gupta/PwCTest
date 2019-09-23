@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PwC Test</string>
+    <string name="month_year_day_format">%1$s %2$d, %3$s</string>
+    <string name="time_format">%1$s:%2$s %3$s</string>
+    <string name="after">After</string>
+    <string name="before">Before</string>
+    <string name="train">Train</string>
+    <string name="bus">Bus</string>
+    <string name="search">Search</string>
+</resources>
